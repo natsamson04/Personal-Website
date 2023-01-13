@@ -1,0 +1,48 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/natsamson04/natsamson04/main/README.md",
+  "title": "Natnael Samson",
+  "name": "Natnael Samson",
+  "ascii": "Natnael Samson",
+  "social": {
+    "github": "natsamson04",
+    "linkedin": "nsamson04/"
+  },
+  "email": "natsamson04@gmail.com",
+  "ps1_hostname": "web",
+  "ps1_username": "nsamson",
+  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "resume_url": "https://drive.google.com/file/d/1BFKI7rKceGjnyHmJF7kjIAJjCgWiCUVR/view?usp=sharing",
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1a1b1f",
+      "foreground": "#e5e9e8",
+      "yellow": "#277ef2",
+      "green": "#277ef2",
+      "gray": "#54a89e",
+      "blue": "#EBCB8B",
+      "red": "#b6141e"
+    },
+    "olddark": {
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
